@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NachoGaarcia
-- 👀 I’m interested in good food, good coffee, travel and living my best life.
-- 🌱 I’m currently learning Full Stack Engineering.
-- 💞️ I’m looking to collaborate on anything really.
+- I’m interested in good food, good coffee, travel and living my best life.
+- I’m currently learning Full Stack Engineering.
+- I’m looking to collaborate on anything really.
 <!--- 📫 --->
 
 <!---
